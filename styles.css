@@ -1,0 +1,48 @@
+body{
+    background-color: beige;
+}
+
+#hero_section{
+height:48vh;
+display: flex;
+}
+
+#sec1{
+    width: 70%;
+    height: 100%;
+}
+
+#poz{
+    font-size: 500%;
+    text-align: center;
+}
+.pot{
+    text-align: center;
+}
+ 
+#django{
+    width:75% ;
+    height: 90%;
+    background-color:cornflowerblue;
+    border-radius: 100%;
+}
+#about-me{
+    text-align: center;
+    margin-top:5%;
+    padding: 3%;
+}
+#skills{
+    text-align: center;
+}
+
+#contact{
+    
+}
+
+form{
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding: 2%;
+    border-radius: 3%;
+}
